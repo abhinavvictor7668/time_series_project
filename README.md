@@ -1,6 +1,6 @@
 # Time Series Project
 
-This repository contains a sequence of Jupyter notebooks and datasets exploring time series analysis and forecasting using practical, hands-on examples. Notebooks progress from data cleaning to ARIMA modeling and forecasting, using Python data tools and statistical libraries.
+This repository contains a sequence of Jupyter notebooks and datasets exploring time series analysis and forecasting using practical, hands-on examples. Notebooks progress from data cleaning to ARIMA+GARCH modeling and forecasting, using Python data tools and statistical libraries.
 
 ## Data Cleaning
 
