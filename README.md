@@ -12,7 +12,7 @@ Explores seasonality, trends, decomposition, autocorrelation, and stationarity d
 
 ## ARIMA Modeling
 
-Builds, validates, and tunes ARIMA/SARIMA models for the prepared series. Steps include differencing, order selection (ACF/PACF and information criteria), residual checks, and performance reporting—primarily leveraging `statsmodels` and automated selection helpers when available.
+Builds, validates, and tunes ARIMA/SARIMA models for the prepared series, including differencing, order selection (ACF/PACF, information criteria), residual checks, and performance reporting. For series with time-varying volatility (e.g., financial , economic variable data), also fit ARCH/GARCH models to capture conditional heteroskedasticity using `arch` or `statsmodels`.
 
 ## Forecasting
 
