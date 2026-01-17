@@ -48,4 +48,4 @@ or individually, e.g. `pip install pandas numpy matplotlib seaborn statsmodels p
 
 Open the notebooks in Jupyter and run cells in order: `1_data_cleaning.ipynb`, `2_basic_timesereis.ipynb`, `3_ARIMA.ipynb`, `4_Forecasting.ipynb`. Modify dataset paths as needed and re-run to reproduce analyses and forecasts.
 # time_series_project
-Time series project for Crude Oil Prices and CPI of India and Brazil
+Time series project for Crude Oil Prices, CPI and Inflation of India.
